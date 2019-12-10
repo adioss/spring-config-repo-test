@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/adioss/spring-config-repo-test
+          uri: https://github.com/adioss/spring-config-repo-test.git
           clone-on-start: true
   security:
     user:
